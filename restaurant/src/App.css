@@ -1,6 +1,8 @@
- {
-  text-align: center;
-
+ body{
+   color: aliceblue;
+  background-image: url("https://i.pinimg.com/originals/1d/71/6c/1d716ce3dc70917046e3f7a8e80e2ace.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .App-logo {
@@ -16,7 +18,7 @@
 
 div{
   text-align: center;
-  
+  background-color:rgb(0, 0, 0, 0.4);
 }
 
 .App-header {
